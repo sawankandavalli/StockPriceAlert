@@ -11,4 +11,4 @@ https://newsapi.org/
 https://www.twilio.com/
 
 Sample SMS alert
-![image](https://user-images.githubusercontent.com/60713034/189474727-cf3c4484-fd16-4ce2-849b-4ce792241b2f.png)
+![Screenshot_20220910-135203](https://user-images.githubusercontent.com/60713034/189475350-e6e1e5da-e1c5-40d7-bc66-5b38d3fb75cd.jpg)
